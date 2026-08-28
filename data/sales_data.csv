@@ -1,0 +1,1001 @@
+OrderID,Date,Region,Product,Category,SalesAmount,Quantity,Profit
+1000,2023-01-01,Middle East & Africa,Workflow Automator,Software,578.41,1,392.49
+1001,2023-01-02,North America,IoT Platform,Cloud Services,10049.6,16,6752.1
+1002,2023-01-03,Latin America,Workflow Automator,Software,3599.89,7,2442.79
+1003,2023-01-04,Europe,DataSync Basic,Cloud Services,2058.9,10,1478.2
+1004,2023-01-05,Europe,Enterprise Suite,Software,30124.64,28,18074.79
+1005,2023-01-06,Latin America,Cloud Storage Pro,Cloud Services,4187.43,9,2791.63
+1006,2023-01-07,North America,DataSync Basic,Cloud Services,670.11,3,481.1
+1007,2023-01-08,Asia Pacific,DataSync Basic,Cloud Services,531.42,3,381.53
+1008,2023-01-09,North America,Enterprise Suite,Software,19030.35,15,11418.23
+1009,2023-01-10,Asia Pacific,AI Insights,Analytics,10970.9,10,6981.47
+1010,2023-01-11,North America,Analytics Plus,Analytics,29998.98,33,19212.78
+1011,2023-01-12,Latin America,IoT Platform,Cloud Services,6398.64,9,4299.09
+1012,2023-01-13,Asia Pacific,AI Insights,Analytics,26279.61,21,16723.42
+1013,2023-01-14,North America,Workflow Automator,Software,1952.92,4,1325.19
+1014,2023-01-15,Europe,Cloud Storage Pro,Cloud Services,1599.75,3,1066.5
+1015,2023-01-16,North America,AI Insights,Analytics,31022.73,27,19741.71
+1016,2023-01-17,Europe,Analytics Plus,Analytics,13905.76,16,8905.93
+1017,2023-01-18,Middle East & Africa,AI Insights,Analytics,10079.28,8,6414.08
+1018,2023-01-19,Asia Pacific,API Gateway,Integration,554.86,2,398.81
+1019,2023-01-20,Latin America,Enterprise Suite,Software,3514.68,3,2108.8
+1020,2023-01-21,Latin America,Mobile Connect,Integration,757.6,4,541.15
+1021,2023-01-22,Europe,Analytics Plus,Analytics,3611.0,4,2312.67
+1022,2023-01-23,Latin America,Workflow Automator,Software,8534.56,16,5791.29
+1023,2023-01-24,Asia Pacific,Mobile Connect,Integration,1676.7,9,1197.66
+1024,2023-01-25,Latin America,Analytics Plus,Analytics,5037.0,5,3225.94
+1025,2023-01-26,Latin America,Mobile Connect,Integration,1592.08,8,1137.21
+1026,2023-01-27,Middle East & Africa,DataSync Basic,Cloud Services,199.25,1,143.05
+1027,2023-01-28,North America,IoT Platform,Cloud Services,3620.1,6,2432.25
+1028,2023-01-29,Europe,AI Insights,Analytics,3599.94,3,2290.87
+1029,2023-01-30,Europe,Analytics Plus,Analytics,21000.24,24,13449.63
+1030,2023-01-31,North America,Enterprise Suite,Software,24872.33,19,14923.39
+1031,2023-02-01,Latin America,Mobile Connect,Integration,1702.44,9,1216.02
+1032,2023-02-02,North America,Analytics Plus,Analytics,4419.9,5,2830.72
+1033,2023-02-03,Asia Pacific,API Gateway,Integration,3422.64,12,2460.01
+1034,2023-02-04,Latin America,IoT Platform,Cloud Services,724.46,1,486.75
+1035,2023-02-05,Europe,DataSync Basic,Cloud Services,1556.4,8,1117.42
+1036,2023-02-06,Latin America,AI Insights,Analytics,5688.75,5,3620.11
+1037,2023-02-07,Middle East & Africa,IoT Platform,Cloud Services,673.57,1,452.55
+1038,2023-02-08,Asia Pacific,Cloud Storage Pro,Cloud Services,1075.7,2,717.14
+1039,2023-02-09,North America,Mobile Connect,Integration,4823.01,27,3445.04
+1040,2023-02-10,Middle East & Africa,Cloud Storage Pro,Cloud Services,2582.76,6,1721.84
+1041,2023-02-11,Asia Pacific,AI Insights,Analytics,3164.34,3,2013.67
+1042,2023-02-12,Middle East & Africa,Security Shield,Security,673.55,1,440.05
+1043,2023-02-13,Latin America,DataSync Basic,Cloud Services,950.3,5,682.26
+1044,2023-02-14,Middle East & Africa,API Gateway,Integration,2485.04,8,1786.12
+1045,2023-02-15,Latin America,Workflow Automator,Software,558.02,1,378.66
+1046,2023-02-16,Asia Pacific,AI Insights,Analytics,3226.47,3,2053.2
+1047,2023-02-17,Latin America,API Gateway,Integration,1017.12,3,731.06
+1048,2023-02-18,Europe,DataSync Basic,Cloud Services,852.0,5,611.69
+1049,2023-02-19,Latin America,Security Shield,Security,2351.25,3,1536.15
+1050,2023-02-20,Middle East & Africa,Mobile Connect,Integration,2743.92,12,1959.94
+1051,2023-02-21,Middle East & Africa,Cloud Storage Pro,Cloud Services,4044.24,8,2696.15
+1052,2023-02-22,Middle East & Africa,Analytics Plus,Analytics,6568.24,7,4206.62
+1053,2023-02-23,Europe,Analytics Plus,Analytics,11682.15,15,7481.82
+1054,2023-02-24,Latin America,Analytics Plus,Analytics,2670.93,3,1710.6
+1055,2023-02-25,Europe,Cloud Storage Pro,Cloud Services,1688.68,4,1125.78
+1056,2023-02-26,Asia Pacific,Enterprise Suite,Software,8067.9,6,4840.73
+1057,2023-02-27,Europe,Security Shield,Security,4038.84,6,2638.7
+1058,2023-02-28,North America,Enterprise Suite,Software,17593.12,16,10555.88
+1059,2023-03-01,Middle East & Africa,Cloud Storage Pro,Cloud Services,2182.75,5,1455.17
+1060,2023-03-02,Latin America,Analytics Plus,Analytics,3612.92,4,2313.9
+1061,2023-03-03,Asia Pacific,Analytics Plus,Analytics,4753.15,5,3044.16
+1062,2023-03-04,Middle East & Africa,Security Shield,Security,3154.68,4,2061.05
+1063,2023-03-05,Europe,IoT Platform,Cloud Services,587.33,1,394.61
+1064,2023-03-06,Middle East & Africa,Security Shield,Security,3999.36,6,2612.92
+1065,2023-03-07,Asia Pacific,Workflow Automator,Software,5006.3,10,3397.13
+1066,2023-03-08,Latin America,Mobile Connect,Integration,1093.45,5,781.04
+1067,2023-03-09,Asia Pacific,DataSync Basic,Cloud Services,3978.22,19,2856.14
+1068,2023-03-10,Middle East & Africa,Enterprise Suite,Software,3819.33,3,2291.6
+1069,2023-03-11,Europe,Analytics Plus,Analytics,2933.46,3,1878.74
+1070,2023-03-12,North America,DataSync Basic,Cloud Services,828.12,4,594.55
+1071,2023-03-13,Latin America,Enterprise Suite,Software,5657.35,5,3394.41
+1072,2023-03-14,Asia Pacific,Analytics Plus,Analytics,4867.4,5,3117.33
+1073,2023-03-15,Europe,Security Shield,Security,5780.48,8,3776.59
+1074,2023-03-16,North America,Analytics Plus,Analytics,3648.32,4,2336.57
+1075,2023-03-17,Asia Pacific,IoT Platform,Cloud Services,706.93,1,474.97
+1076,2023-03-18,North America,Workflow Automator,Software,568.27,1,385.61
+1077,2023-03-19,Latin America,Workflow Automator,Software,636.92,1,432.2
+1078,2023-03-20,Asia Pacific,Analytics Plus,Analytics,5679.6,6,3637.5
+1079,2023-03-21,North America,Mobile Connect,Integration,8025.48,36,5732.53
+1080,2023-03-22,North America,Enterprise Suite,Software,8244.66,6,4946.79
+1081,2023-03-23,Middle East & Africa,Enterprise Suite,Software,4583.56,4,2750.14
+1082,2023-03-24,North America,AI Insights,Analytics,3237.03,3,2059.93
+1083,2023-03-25,Middle East & Africa,Cloud Storage Pro,Cloud Services,524.64,1,349.76
+1084,2023-03-26,Europe,API Gateway,Integration,1357.6,4,975.77
+1085,2023-03-27,Europe,Enterprise Suite,Software,12075.0,10,7244.99
+1086,2023-03-28,Asia Pacific,Workflow Automator,Software,8588.64,16,5827.98
+1087,2023-03-29,Latin America,Security Shield,Security,3398.28,4,2220.21
+1088,2023-03-30,Middle East & Africa,Cloud Storage Pro,Cloud Services,1067.58,2,711.72
+1089,2023-03-31,North America,AI Insights,Analytics,6454.92,6,4107.68
+1090,2023-04-01,Middle East & Africa,AI Insights,Analytics,4695.1,5,2987.79
+1091,2023-04-02,North America,IoT Platform,Cloud Services,2175.51,3,1461.67
+1092,2023-04-03,Latin America,Security Shield,Security,14039.28,18,9172.35
+1093,2023-04-04,Middle East & Africa,Enterprise Suite,Software,18610.2,14,11166.11
+1094,2023-04-05,Asia Pacific,Mobile Connect,Integration,7863.18,34,5616.53
+1095,2023-04-06,Latin America,IoT Platform,Cloud Services,4377.9,6,2941.4
+1096,2023-04-07,Latin America,Security Shield,Security,2046.84,3,1337.27
+1097,2023-04-08,Middle East & Africa,Workflow Automator,Software,639.42,1,433.89
+1098,2023-04-09,Latin America,IoT Platform,Cloud Services,730.46,1,490.78
+1099,2023-04-10,North America,Mobile Connect,Integration,3711.6,20,2651.14
+1100,2023-04-11,Middle East & Africa,Cloud Storage Pro,Cloud Services,3626.64,8,2417.75
+1101,2023-04-12,North America,AI Insights,Analytics,33013.12,28,21008.4
+1102,2023-04-13,Europe,Workflow Automator,Software,10640.64,17,7220.45
+1103,2023-04-14,Europe,Cloud Storage Pro,Cloud Services,5196.3,10,3464.21
+1104,2023-04-15,Europe,Workflow Automator,Software,970.28,2,658.41
+1105,2023-04-16,North America,DataSync Basic,Cloud Services,1061.94,6,762.42
+1106,2023-04-17,North America,Analytics Plus,Analytics,41458.2,42,26551.82
+1107,2023-04-18,North America,Analytics Plus,Analytics,5118.96,6,3278.44
+1108,2023-04-19,Asia Pacific,Workflow Automator,Software,17281.62,27,11726.82
+1109,2023-04-20,Middle East & Africa,Cloud Storage Pro,Cloud Services,3690.26,7,2460.18
+1110,2023-04-21,Asia Pacific,Enterprise Suite,Software,19292.14,14,11575.31
+1111,2023-04-22,Europe,Workflow Automator,Software,2516.76,4,1707.8
+1112,2023-04-23,Latin America,IoT Platform,Cloud Services,1440.78,2,968.02
+1113,2023-04-24,North America,Security Shield,Security,8052.2,10,5260.79
+1114,2023-04-25,Asia Pacific,Workflow Automator,Software,16507.12,28,11201.27
+1115,2023-04-26,North America,API Gateway,Integration,8446.0,25,6070.56
+1116,2023-04-27,Asia Pacific,DataSync Basic,Cloud Services,381.68,2,274.03
+1117,2023-04-28,Latin America,Security Shield,Security,5557.86,7,3631.14
+1118,2023-04-29,Europe,AI Insights,Analytics,4494.2,4,2859.94
+1119,2023-04-30,Asia Pacific,IoT Platform,Cloud Services,1213.54,2,815.35
+1120,2023-05-01,Europe,Security Shield,Security,12513.02,17,8175.15
+1121,2023-05-02,North America,Workflow Automator,Software,25965.59,49,17619.52
+1122,2023-05-03,Latin America,Security Shield,Security,4943.7,6,3229.89
+1123,2023-05-04,Asia Pacific,Mobile Connect,Integration,5983.25,25,4273.72
+1124,2023-05-05,Latin America,Workflow Automator,Software,4055.36,8,2751.85
+1125,2023-05-06,Middle East & Africa,DataSync Basic,Cloud Services,664.47,3,477.05
+1126,2023-05-07,North America,Mobile Connect,Integration,713.55,3,509.68
+1127,2023-05-08,Asia Pacific,Workflow Automator,Software,17255.84,28,11709.3
+1128,2023-05-09,Europe,Cloud Storage Pro,Cloud Services,15242.4,29,10161.57
+1129,2023-05-10,North America,Workflow Automator,Software,13170.96,22,8937.46
+1130,2023-05-11,Middle East & Africa,Mobile Connect,Integration,2828.88,12,2020.63
+1131,2023-05-12,North America,Analytics Plus,Analytics,28689.2,34,18373.93
+1132,2023-05-13,Asia Pacific,Enterprise Suite,Software,6450.06,6,3870.03
+1133,2023-05-14,Latin America,Workflow Automator,Software,571.99,1,388.14
+1134,2023-05-15,Latin America,AI Insights,Analytics,1032.41,1,656.99
+1135,2023-05-16,Europe,Mobile Connect,Integration,6877.06,29,4912.22
+1136,2023-05-17,Asia Pacific,AI Insights,Analytics,17608.09,17,11205.14
+1137,2023-05-18,North America,Analytics Plus,Analytics,41305.88,44,26454.27
+1138,2023-05-19,Middle East & Africa,Cloud Storage Pro,Cloud Services,3689.6,8,2459.73
+1139,2023-05-20,North America,API Gateway,Integration,1410.16,4,1013.55
+1140,2023-05-21,Middle East & Africa,Workflow Automator,Software,990.64,2,672.22
+1141,2023-05-22,Europe,Mobile Connect,Integration,2275.32,12,1625.24
+1142,2023-05-23,Latin America,Analytics Plus,Analytics,3620.2,4,2318.55
+1143,2023-05-24,Latin America,AI Insights,Analytics,1905.84,2,1212.81
+1144,2023-05-25,Asia Pacific,Security Shield,Security,11858.4,15,7747.5
+1145,2023-05-26,Middle East & Africa,Security Shield,Security,12051.47,17,7873.62
+1146,2023-05-27,Asia Pacific,API Gateway,Integration,1022.94,3,735.24
+1147,2023-05-28,Middle East & Africa,Cloud Storage Pro,Cloud Services,822.84,2,548.56
+1148,2023-05-29,Europe,Workflow Automator,Software,18896.86,34,12822.91
+1149,2023-05-30,Asia Pacific,Security Shield,Security,16261.72,19,10624.35
+1150,2023-05-31,Middle East & Africa,API Gateway,Integration,572.82,2,411.71
+1151,2023-06-01,Latin America,Security Shield,Security,6317.82,9,4127.64
+1152,2023-06-02,Latin America,Enterprise Suite,Software,3668.01,3,2200.8
+1153,2023-06-03,Latin America,API Gateway,Integration,1441.44,4,1036.04
+1154,2023-06-04,Europe,Cloud Storage Pro,Cloud Services,1448.1,3,965.4
+1155,2023-06-05,Asia Pacific,Workflow Automator,Software,2015.2,4,1367.45
+1156,2023-06-06,Middle East & Africa,AI Insights,Analytics,5830.98,6,3710.61
+1157,2023-06-07,Asia Pacific,Security Shield,Security,16893.6,20,11037.13
+1158,2023-06-08,Latin America,Mobile Connect,Integration,911.24,4,650.89
+1159,2023-06-09,Middle East & Africa,DataSync Basic,Cloud Services,3579.68,16,2570.04
+1160,2023-06-10,Middle East & Africa,Cloud Storage Pro,Cloud Services,487.25,1,324.83
+1161,2023-06-11,Latin America,AI Insights,Analytics,5968.95,5,3798.42
+1162,2023-06-12,North America,Security Shield,Security,21427.52,29,13999.31
+1163,2023-06-13,Europe,DataSync Basic,Cloud Services,1855.81,11,1332.36
+1164,2023-06-14,North America,Cloud Storage Pro,Cloud Services,15420.65,35,10280.41
+1165,2023-06-15,Asia Pacific,Mobile Connect,Integration,1193.34,6,852.39
+1166,2023-06-16,Middle East & Africa,Analytics Plus,Analytics,8157.78,9,5224.63
+1167,2023-06-17,Latin America,Cloud Storage Pro,Cloud Services,1949.76,4,1299.84
+1168,2023-06-18,Latin America,Security Shield,Security,2143.38,3,1400.34
+1169,2023-06-19,Asia Pacific,Enterprise Suite,Software,19537.35,15,11722.43
+1170,2023-06-20,Asia Pacific,AI Insights,Analytics,12517.7,10,7965.82
+1171,2023-06-21,North America,Cloud Storage Pro,Cloud Services,5924.62,13,3949.76
+1172,2023-06-22,Asia Pacific,Analytics Plus,Analytics,22630.8,24,14493.84
+1173,2023-06-23,Asia Pacific,Cloud Storage Pro,Cloud Services,929.08,2,619.39
+1174,2023-06-24,Asia Pacific,API Gateway,Integration,996.45,3,716.2
+1175,2023-06-25,Europe,IoT Platform,Cloud Services,3038.6,5,2041.56
+1176,2023-06-26,Middle East & Africa,Enterprise Suite,Software,18046.21,13,10827.73
+1177,2023-06-27,Europe,Workflow Automator,Software,11194.38,18,7596.17
+1178,2023-06-28,Middle East & Africa,Mobile Connect,Integration,2913.96,14,2081.42
+1179,2023-06-29,Asia Pacific,API Gateway,Integration,3971.44,11,2854.48
+1180,2023-06-30,Latin America,Security Shield,Security,1279.9,2,836.2
+1181,2023-07-01,Asia Pacific,Cloud Storage Pro,Cloud Services,4014.08,8,2676.05
+1182,2023-07-02,Asia Pacific,Enterprise Suite,Software,2313.58,2,1388.15
+1183,2023-07-03,Latin America,AI Insights,Analytics,11079.9,10,7050.83
+1184,2023-07-04,Asia Pacific,Workflow Automator,Software,7610.82,14,5164.49
+1185,2023-07-05,Europe,Workflow Automator,Software,23474.65,37,15929.25
+1186,2023-07-06,North America,AI Insights,Analytics,2381.94,2,1515.78
+1187,2023-07-07,Middle East & Africa,Analytics Plus,Analytics,12243.24,12,7841.2
+1188,2023-07-08,Middle East & Africa,Analytics Plus,Analytics,4942.1,5,3165.16
+1189,2023-07-09,Asia Pacific,Workflow Automator,Software,619.66,1,420.48
+1190,2023-07-10,Europe,IoT Platform,Cloud Services,6371.37,9,4280.77
+1191,2023-07-11,Asia Pacific,Mobile Connect,Integration,1397.41,7,998.15
+1192,2023-07-12,Asia Pacific,IoT Platform,Cloud Services,15798.64,26,10614.71
+1193,2023-07-13,Asia Pacific,Mobile Connect,Integration,2303.6,10,1645.44
+1194,2023-07-14,Latin America,AI Insights,Analytics,11595.6,12,7379.04
+1195,2023-07-15,Middle East & Africa,Cloud Storage Pro,Cloud Services,478.72,1,319.15
+1196,2023-07-16,Europe,API Gateway,Integration,2406.32,8,1729.54
+1197,2023-07-17,Latin America,API Gateway,Integration,3854.95,11,2770.75
+1198,2023-07-18,North America,Mobile Connect,Integration,3613.05,15,2580.73
+1199,2023-07-19,Latin America,IoT Platform,Cloud Services,3160.5,5,2123.46
+1200,2023-07-20,North America,AI Insights,Analytics,55390.5,45,35248.49
+1201,2023-07-21,Latin America,IoT Platform,Cloud Services,5361.28,8,3602.12
+1202,2023-07-22,Asia Pacific,IoT Platform,Cloud Services,3478.7,5,2337.25
+1203,2023-07-23,Europe,Mobile Connect,Integration,1310.61,7,936.15
+1204,2023-07-24,North America,IoT Platform,Cloud Services,17771.2,29,11939.99
+1205,2023-07-25,Asia Pacific,IoT Platform,Cloud Services,13262.76,21,8910.88
+1206,2023-07-26,Latin America,Analytics Plus,Analytics,7694.73,9,4928.07
+1207,2023-07-27,Middle East & Africa,Workflow Automator,Software,2411.35,5,1636.28
+1208,2023-07-28,Asia Pacific,Workflow Automator,Software,5054.31,9,3429.72
+1209,2023-07-29,North America,Mobile Connect,Integration,2028.2,10,1448.71
+1210,2023-07-30,Europe,Cloud Storage Pro,Cloud Services,2155.9,5,1437.27
+1211,2023-07-31,Europe,Analytics Plus,Analytics,19850.4,24,12713.2
+1212,2023-08-01,North America,IoT Platform,Cloud Services,8958.17,13,6018.76
+1213,2023-08-02,North America,Cloud Storage Pro,Cloud Services,8570.38,17,5713.6
+1214,2023-08-03,Europe,Workflow Automator,Software,23029.9,38,15627.47
+1215,2023-08-04,Middle East & Africa,IoT Platform,Cloud Services,4072.32,7,2736.09
+1216,2023-08-05,Asia Pacific,Enterprise Suite,Software,4266.81,3,2560.08
+1217,2023-08-06,North America,DataSync Basic,Cloud Services,1460.8,8,1048.79
+1218,2023-08-07,Latin America,API Gateway,Integration,1999.9,7,1437.43
+1219,2023-08-08,Asia Pacific,Enterprise Suite,Software,37600.53,29,22560.28
+1220,2023-08-09,Asia Pacific,DataSync Basic,Cloud Services,672.6,4,482.9
+1221,2023-08-10,North America,Analytics Plus,Analytics,6868.26,9,4398.78
+1222,2023-08-11,Asia Pacific,API Gateway,Integration,4213.32,12,3028.33
+1223,2023-08-12,Europe,IoT Platform,Cloud Services,1104.94,2,742.38
+1224,2023-08-13,Asia Pacific,API Gateway,Integration,1019.94,3,733.08
+1225,2023-08-14,North America,Analytics Plus,Analytics,9185.67,9,5882.95
+1226,2023-08-15,North America,Cloud Storage Pro,Cloud Services,4891.68,9,3261.13
+1227,2023-08-16,Middle East & Africa,IoT Platform,Cloud Services,4550.35,7,3057.28
+1228,2023-08-17,Europe,Cloud Storage Pro,Cloud Services,2093.55,5,1395.69
+1229,2023-08-18,Asia Pacific,Workflow Automator,Software,14852.16,27,10078.26
+1230,2023-08-19,Middle East & Africa,Security Shield,Security,805.42,1,526.21
+1231,2023-08-20,Asia Pacific,Enterprise Suite,Software,3799.74,3,2279.84
+1232,2023-08-21,Europe,Mobile Connect,Integration,8194.32,36,5853.07
+1233,2023-08-22,North America,Cloud Storage Pro,Cloud Services,5402.98,11,3601.97
+1234,2023-08-23,Asia Pacific,AI Insights,Analytics,4917.85,5,3129.54
+1235,2023-08-24,Europe,Mobile Connect,Integration,3769.8,20,2692.71
+1236,2023-08-25,Asia Pacific,DataSync Basic,Cloud Services,4443.36,24,3190.08
+1237,2023-08-26,North America,AI Insights,Analytics,4086.08,4,2600.24
+1238,2023-08-27,North America,Enterprise Suite,Software,2344.64,2,1406.78
+1239,2023-08-28,North America,Analytics Plus,Analytics,20769.84,24,13302.03
+1240,2023-08-29,Latin America,Workflow Automator,Software,9518.04,18,6458.65
+1241,2023-08-30,Europe,Security Shield,Security,9112.74,13,5953.66
+1242,2023-08-31,Middle East & Africa,Security Shield,Security,1315.4,2,859.39
+1243,2023-09-01,Latin America,IoT Platform,Cloud Services,10348.92,19,6953.19
+1244,2023-09-02,North America,DataSync Basic,Cloud Services,2200.68,12,1579.99
+1245,2023-09-03,North America,Cloud Storage Pro,Cloud Services,4330.72,8,2887.14
+1246,2023-09-04,Middle East & Africa,Enterprise Suite,Software,8071.38,6,4842.83
+1247,2023-09-05,Latin America,Workflow Automator,Software,4159.12,7,2822.26
+1248,2023-09-06,North America,AI Insights,Analytics,18790.08,16,11957.35
+1249,2023-09-07,Europe,AI Insights,Analytics,24467.56,26,15570.25
+1250,2023-09-08,Middle East & Africa,Workflow Automator,Software,8246.36,17,5595.72
+1251,2023-09-09,Middle East & Africa,Workflow Automator,Software,639.28,1,433.8
+1252,2023-09-10,North America,Enterprise Suite,Software,5319.88,4,3191.93
+1253,2023-09-11,Europe,Cloud Storage Pro,Cloud Services,1602.15,3,1068.1
+1254,2023-09-12,Middle East & Africa,IoT Platform,Cloud Services,669.95,1,450.12
+1255,2023-09-13,Middle East & Africa,Workflow Automator,Software,7857.44,16,5331.85
+1256,2023-09-14,Latin America,Workflow Automator,Software,10930.48,22,7417.11
+1257,2023-09-15,Europe,Cloud Storage Pro,Cloud Services,9047.2,20,6031.45
+1258,2023-09-16,Middle East & Africa,IoT Platform,Cloud Services,624.01,1,419.26
+1259,2023-09-17,Europe,API Gateway,Integration,1129.96,4,812.16
+1260,2023-09-18,Europe,Security Shield,Security,2247.81,3,1468.57
+1261,2023-09-19,Asia Pacific,Mobile Connect,Integration,3232.96,16,2309.27
+1262,2023-09-20,Latin America,API Gateway,Integration,4012.71,13,2884.15
+1263,2023-09-21,North America,AI Insights,Analytics,45909.2,40,29214.89
+1264,2023-09-22,North America,DataSync Basic,Cloud Services,3308.2,17,2375.1
+1265,2023-09-23,Europe,AI Insights,Analytics,4823.1,5,3069.24
+1266,2023-09-24,Europe,Workflow Automator,Software,4949.73,9,3358.74
+1267,2023-09-25,Asia Pacific,Workflow Automator,Software,10444.8,17,7087.52
+1268,2023-09-26,Latin America,Analytics Plus,Analytics,11010.02,14,7051.34
+1269,2023-09-27,Asia Pacific,Security Shield,Security,8932.56,12,5835.95
+1270,2023-09-28,North America,API Gateway,Integration,1433.88,4,1030.6
+1271,2023-09-29,Middle East & Africa,IoT Platform,Cloud Services,6353.64,9,4268.85
+1272,2023-09-30,Asia Pacific,IoT Platform,Cloud Services,2144.07,3,1440.54
+1273,2023-10-01,North America,Analytics Plus,Analytics,1535.02,2,983.1
+1274,2023-10-02,Asia Pacific,Enterprise Suite,Software,22764.19,17,13658.52
+1275,2023-10-03,Middle East & Africa,Cloud Storage Pro,Cloud Services,6553.26,14,4368.82
+1276,2023-10-04,Asia Pacific,Cloud Storage Pro,Cloud Services,4966.56,9,3311.04
+1277,2023-10-05,Asia Pacific,Analytics Plus,Analytics,3641.6,4,2332.25
+1278,2023-10-06,Europe,API Gateway,Integration,4685.52,14,3367.71
+1279,2023-10-07,North America,DataSync Basic,Cloud Services,1048.25,5,752.58
+1280,2023-10-08,Latin America,Workflow Automator,Software,1142.76,2,775.44
+1281,2023-10-09,Europe,API Gateway,Integration,3499.8,12,2515.49
+1282,2023-10-10,North America,DataSync Basic,Cloud Services,3295.05,15,2365.68
+1283,2023-10-11,Asia Pacific,Workflow Automator,Software,18797.84,38,12755.72
+1284,2023-10-12,Latin America,AI Insights,Analytics,4440.84,4,2825.99
+1285,2023-10-13,Latin America,Cloud Storage Pro,Cloud Services,5641.32,12,3760.9
+1286,2023-10-14,North America,Workflow Automator,Software,8936.48,16,6064.02
+1287,2023-10-15,Europe,IoT Platform,Cloud Services,2607.68,4,1752.03
+1288,2023-10-16,Latin America,Analytics Plus,Analytics,16083.36,16,10300.57
+1289,2023-10-17,Middle East & Africa,DataSync Basic,Cloud Services,2846.88,16,2043.89
+1290,2023-10-18,Asia Pacific,Enterprise Suite,Software,40450.36,29,24270.17
+1291,2023-10-19,North America,Analytics Plus,Analytics,4997.88,6,3200.9
+1292,2023-10-20,North America,Mobile Connect,Integration,3990.41,17,2850.29
+1293,2023-10-21,North America,Workflow Automator,Software,6182.6,10,4195.34
+1294,2023-10-22,Latin America,Cloud Storage Pro,Cloud Services,451.09,1,300.73
+1295,2023-10-23,Asia Pacific,Enterprise Suite,Software,5672.44,4,3403.47
+1296,2023-10-24,Asia Pacific,DataSync Basic,Cloud Services,6437.7,30,4621.94
+1297,2023-10-25,Latin America,Mobile Connect,Integration,1862.0,10,1329.99
+1298,2023-10-26,North America,Enterprise Suite,Software,33087.04,28,19852.21
+1299,2023-10-27,Latin America,Analytics Plus,Analytics,6307.04,8,4039.33
+1300,2023-10-28,Latin America,Security Shield,Security,862.08,1,563.23
+1301,2023-10-29,North America,Mobile Connect,Integration,1416.1,7,1011.5
+1302,2023-10-30,Europe,DataSync Basic,Cloud Services,3578.08,19,2568.88
+1303,2023-10-31,Asia Pacific,Mobile Connect,Integration,4152.6,20,2966.16
+1304,2023-11-01,Middle East & Africa,Mobile Connect,Integration,3104.27,13,2217.35
+1305,2023-11-02,Asia Pacific,Enterprise Suite,Software,41606.59,29,24963.92
+1306,2023-11-03,Middle East & Africa,Security Shield,Security,6897.5,10,4506.37
+1307,2023-11-04,Latin America,Enterprise Suite,Software,7648.08,6,4588.84
+1308,2023-11-05,Middle East & Africa,Security Shield,Security,742.95,1,485.39
+1309,2023-11-06,Middle East & Africa,Mobile Connect,Integration,3217.5,18,2298.19
+1310,2023-11-07,Asia Pacific,Analytics Plus,Analytics,23322.0,23,14936.58
+1311,2023-11-08,Middle East & Africa,Security Shield,Security,5321.12,8,3476.45
+1312,2023-11-09,Europe,Analytics Plus,Analytics,34312.74,42,21975.62
+1313,2023-11-10,Europe,Enterprise Suite,Software,27087.06,22,16252.26
+1314,2023-11-11,North America,Analytics Plus,Analytics,6819.75,7,4367.7
+1315,2023-11-12,Latin America,DataSync Basic,Cloud Services,644.79,3,462.93
+1316,2023-11-13,North America,Analytics Plus,Analytics,33393.8,44,21387.11
+1317,2023-11-14,North America,Enterprise Suite,Software,29881.92,24,17929.11
+1318,2023-11-15,Asia Pacific,DataSync Basic,Cloud Services,6827.34,39,4901.67
+1319,2023-11-16,Asia Pacific,AI Insights,Analytics,20092.69,19,12786.23
+1320,2023-11-17,Latin America,Workflow Automator,Software,8081.4,15,5483.79
+1321,2023-11-18,North America,DataSync Basic,Cloud Services,2071.0,10,1486.88
+1322,2023-11-19,Middle East & Africa,Cloud Storage Pro,Cloud Services,1272.51,3,848.34
+1323,2023-11-20,Middle East & Africa,DataSync Basic,Cloud Services,1707.39,9,1225.82
+1324,2023-11-21,Europe,Mobile Connect,Integration,6875.64,36,4911.2
+1325,2023-11-22,Latin America,Workflow Automator,Software,5318.8,10,3609.18
+1326,2023-11-23,Latin America,DataSync Basic,Cloud Services,503.94,3,361.81
+1327,2023-11-24,North America,Security Shield,Security,19723.76,28,12886.17
+1328,2023-11-25,Asia Pacific,AI Insights,Analytics,1076.53,1,685.06
+1329,2023-11-26,Europe,API Gateway,Integration,4077.71,13,2930.87
+1330,2023-11-27,Europe,Security Shield,Security,12098.22,17,7904.15
+1331,2023-11-28,Latin America,API Gateway,Integration,6282.8,20,4515.79
+1332,2023-11-29,Asia Pacific,Mobile Connect,Integration,2788.5,13,1991.79
+1333,2023-11-30,Asia Pacific,Enterprise Suite,Software,9047.99,7,5428.81
+1334,2023-12-01,Europe,AI Insights,Analytics,3682.68,3,2343.52
+1335,2023-12-02,Middle East & Africa,Workflow Automator,Software,540.08,1,366.48
+1336,2023-12-03,Middle East & Africa,AI Insights,Analytics,2171.98,2,1382.17
+1337,2023-12-04,Asia Pacific,API Gateway,Integration,2235.36,8,1606.67
+1338,2023-12-05,Asia Pacific,API Gateway,Integration,10791.1,31,7756.06
+1339,2023-12-06,Asia Pacific,Enterprise Suite,Software,18458.18,13,11074.9
+1340,2023-12-07,Asia Pacific,AI Insights,Analytics,23308.6,20,14832.76
+1341,2023-12-08,Latin America,DataSync Basic,Cloud Services,2103.6,10,1510.27
+1342,2023-12-09,Middle East & Africa,Workflow Automator,Software,2453.6,5,1664.94
+1343,2023-12-10,Europe,Security Shield,Security,4439.28,6,2900.33
+1344,2023-12-11,North America,Enterprise Suite,Software,15461.32,14,9276.79
+1345,2023-12-12,Asia Pacific,IoT Platform,Cloud Services,5043.28,8,3388.46
+1346,2023-12-13,Latin America,Workflow Automator,Software,8799.6,15,5971.17
+1347,2023-12-14,Europe,Enterprise Suite,Software,10547.82,9,6328.68
+1348,2023-12-15,Europe,API Gateway,Integration,9536.32,32,6854.27
+1349,2023-12-16,Asia Pacific,IoT Platform,Cloud Services,3395.5,5,2281.35
+1350,2023-12-17,Middle East & Africa,Workflow Automator,Software,1279.42,2,868.18
+1351,2023-12-18,North America,Security Shield,Security,2732.0,4,1784.9
+1352,2023-12-19,Latin America,Analytics Plus,Analytics,4017.04,4,2572.71
+1353,2023-12-20,Latin America,Security Shield,Security,10485.02,14,6850.23
+1354,2023-12-21,North America,AI Insights,Analytics,26262.86,26,16712.7
+1355,2023-12-21,Latin America,API Gateway,Integration,6150.1,22,4420.4
+1356,2023-12-22,North America,Analytics Plus,Analytics,29208.3,30,18706.42
+1357,2023-12-22,North America,IoT Platform,Cloud Services,14817.88,22,9955.77
+1358,2023-12-23,Middle East & Africa,IoT Platform,Cloud Services,2072.7,3,1392.59
+1359,2023-12-24,Middle East & Africa,Cloud Storage Pro,Cloud Services,1439.4,3,959.6
+1360,2023-12-25,North America,AI Insights,Analytics,20722.49,17,13187.04
+1361,2023-12-25,North America,Enterprise Suite,Software,35505.3,30,21303.23
+1362,2023-12-26,Latin America,Analytics Plus,Analytics,2558.7,3,1638.72
+1363,2023-12-26,Middle East & Africa,Workflow Automator,Software,2949.06,6,2001.15
+1364,2023-12-27,Asia Pacific,Enterprise Suite,Software,11584.53,9,6950.72
+1365,2023-12-27,North America,API Gateway,Integration,7024.71,21,5048.99
+1366,2023-12-28,Asia Pacific,Security Shield,Security,25232.13,33,16484.99
+1367,2023-12-28,Middle East & Africa,Workflow Automator,Software,955.32,2,648.25
+1368,2023-12-29,Middle East & Africa,IoT Platform,Cloud Services,4132.38,7,2776.45
+1369,2023-12-29,North America,IoT Platform,Cloud Services,35134.32,52,23605.9
+1370,2023-12-30,North America,Cloud Storage Pro,Cloud Services,1950.8,4,1300.53
+1371,2023-12-31,North America,Cloud Storage Pro,Cloud Services,3448.08,8,2298.73
+1372,2024-01-01,Europe,DataSync Basic,Cloud Services,888.04,4,637.57
+1373,2024-01-01,Latin America,Enterprise Suite,Software,2744.86,2,1646.92
+1374,2024-01-02,North America,Cloud Storage Pro,Cloud Services,1995.48,4,1330.32
+1375,2024-01-02,Latin America,IoT Platform,Cloud Services,2104.98,3,1414.28
+1376,2024-01-03,North America,DataSync Basic,Cloud Services,4393.62,21,3154.37
+1377,2024-01-03,Middle East & Africa,Analytics Plus,Analytics,3941.76,4,2524.5
+1378,2024-01-04,North America,IoT Platform,Cloud Services,2921.6,5,1962.95
+1379,2024-01-04,Europe,IoT Platform,Cloud Services,14619.88,22,9822.73
+1380,2024-01-05,North America,Workflow Automator,Software,13016.43,21,8832.56
+1381,2024-01-05,Europe,Mobile Connect,Integration,2492.76,12,1780.55
+1382,2024-01-06,Europe,Analytics Plus,Analytics,972.17,1,622.63
+1383,2024-01-07,Europe,DataSync Basic,Cloud Services,1168.86,6,839.17
+1384,2024-01-08,Asia Pacific,Enterprise Suite,Software,10278.0,8,6166.82
+1385,2024-01-08,Europe,Security Shield,Security,7277.49,11,4754.64
+1386,2024-01-09,Middle East & Africa,Mobile Connect,Integration,621.75,3,444.11
+1387,2024-01-09,North America,Mobile Connect,Integration,943.4,5,673.86
+1388,2024-01-10,Latin America,IoT Platform,Cloud Services,4707.01,7,3162.52
+1389,2024-01-10,Europe,Workflow Automator,Software,8406.3,14,5704.25
+1390,2024-01-11,Latin America,Security Shield,Security,10150.8,15,6631.88
+1391,2024-01-11,Asia Pacific,Security Shield,Security,13696.05,17,8948.06
+1392,2024-01-12,Europe,DataSync Basic,Cloud Services,523.68,3,375.98
+1393,2024-01-12,Asia Pacific,API Gateway,Integration,3814.8,11,2741.88
+1394,2024-01-13,Europe,Cloud Storage Pro,Cloud Services,3480.96,8,2320.64
+1395,2024-01-14,Europe,Analytics Plus,Analytics,3902.24,4,2499.19
+1396,2024-01-15,Latin America,Analytics Plus,Analytics,1999.86,2,1280.81
+1397,2024-01-15,North America,Enterprise Suite,Software,6683.28,6,4009.97
+1398,2024-01-16,Middle East & Africa,Analytics Plus,Analytics,7089.18,7,4540.26
+1399,2024-01-16,North America,Mobile Connect,Integration,2016.4,10,1440.3
+1400,2024-01-17,North America,IoT Platform,Cloud Services,2091.48,3,1405.21
+1401,2024-01-17,Middle East & Africa,Enterprise Suite,Software,5411.85,5,3247.11
+1402,2024-01-18,North America,Cloud Storage Pro,Cloud Services,9346.26,17,6230.84
+1403,2024-01-18,Middle East & Africa,DataSync Basic,Cloud Services,1394.72,8,1001.33
+1404,2024-01-19,Asia Pacific,IoT Platform,Cloud Services,6367.05,9,4277.86
+1405,2024-01-19,Europe,IoT Platform,Cloud Services,2861.6,5,1922.63
+1406,2024-01-20,Europe,AI Insights,Analytics,2989.98,3,1902.71
+1407,2024-01-21,Asia Pacific,Security Shield,Security,1577.52,2,1030.64
+1408,2024-01-22,Asia Pacific,Cloud Storage Pro,Cloud Services,2499.24,6,1666.16
+1409,2024-01-22,Middle East & Africa,API Gateway,Integration,2221.6,8,1596.79
+1410,2024-01-23,Asia Pacific,Enterprise Suite,Software,3979.98,3,2387.98
+1411,2024-01-23,Latin America,AI Insights,Analytics,10997.8,10,6998.6
+1412,2024-01-24,Latin America,Cloud Storage Pro,Cloud Services,4380.84,9,2920.57
+1413,2024-01-24,Asia Pacific,Workflow Automator,Software,5708.3,10,3873.47
+1414,2024-01-25,Latin America,Security Shield,Security,6451.2,8,4214.77
+1415,2024-01-25,Latin America,AI Insights,Analytics,3657.09,3,2327.24
+1416,2024-01-26,Middle East & Africa,Workflow Automator,Software,5244.1,10,3558.5
+1417,2024-01-26,North America,Cloud Storage Pro,Cloud Services,5112.03,11,3408.02
+1418,2024-01-27,Europe,Analytics Plus,Analytics,2639.58,3,1690.52
+1419,2024-01-28,Europe,DataSync Basic,Cloud Services,1309.8,6,940.37
+1420,2024-01-29,North America,Workflow Automator,Software,7736.3,13,5249.61
+1421,2024-01-29,North America,Mobile Connect,Integration,2764.65,15,1974.76
+1422,2024-01-30,Middle East & Africa,Workflow Automator,Software,5507.1,9,3736.96
+1423,2024-01-30,Asia Pacific,IoT Platform,Cloud Services,6474.06,9,4349.76
+1424,2024-01-31,Asia Pacific,Security Shield,Security,6895.36,8,4504.97
+1425,2024-01-31,Latin America,IoT Platform,Cloud Services,6927.24,12,4654.25
+1426,2024-02-01,Asia Pacific,AI Insights,Analytics,22029.48,18,14018.75
+1427,2024-02-01,Latin America,Mobile Connect,Integration,1162.86,6,830.61
+1428,2024-02-02,North America,AI Insights,Analytics,11076.78,11,7048.88
+1429,2024-02-02,Latin America,AI Insights,Analytics,1004.89,1,639.48
+1430,2024-02-03,Middle East & Africa,Workflow Automator,Software,557.29,1,378.16
+1431,2024-02-04,Latin America,AI Insights,Analytics,2336.86,2,1487.09
+1432,2024-02-05,Middle East & Africa,Cloud Storage Pro,Cloud Services,2182.45,5,1454.97
+1433,2024-02-05,Asia Pacific,API Gateway,Integration,4576.52,13,3289.37
+1434,2024-02-06,Latin America,Analytics Plus,Analytics,5061.45,5,3241.6
+1435,2024-02-06,Latin America,Analytics Plus,Analytics,7351.2,8,4708.08
+1436,2024-02-07,Asia Pacific,Analytics Plus,Analytics,10373.33,11,6643.6
+1437,2024-02-07,North America,Cloud Storage Pro,Cloud Services,13425.75,27,8950.49
+1438,2024-02-08,Middle East & Africa,IoT Platform,Cloud Services,2518.56,4,1692.15
+1439,2024-02-08,Latin America,Security Shield,Security,3151.64,4,2059.07
+1440,2024-02-09,Latin America,Enterprise Suite,Software,8109.29,7,4865.57
+1441,2024-02-09,Europe,DataSync Basic,Cloud Services,4472.82,22,3211.26
+1442,2024-02-10,Europe,AI Insights,Analytics,2047.44,2,1302.92
+1443,2024-02-11,North America,Analytics Plus,Analytics,1514.38,2,969.88
+1444,2024-02-12,Middle East & Africa,IoT Platform,Cloud Services,3464.4,5,2327.64
+1445,2024-02-12,Latin America,Security Shield,Security,5374.88,7,3511.6
+1446,2024-02-13,Asia Pacific,Security Shield,Security,5546.31,7,3623.59
+1447,2024-02-13,Europe,Workflow Automator,Software,9743.8,20,6611.89
+1448,2024-02-14,North America,Workflow Automator,Software,20429.64,33,13863.0
+1449,2024-02-14,Asia Pacific,AI Insights,Analytics,16301.25,15,10373.52
+1450,2024-02-15,Latin America,IoT Platform,Cloud Services,2928.6,4,1967.66
+1451,2024-02-15,North America,IoT Platform,Cloud Services,19566.68,28,13146.36
+1452,2024-02-16,Europe,API Gateway,Integration,1572.0,5,1129.88
+1453,2024-02-16,Latin America,AI Insights,Analytics,4344.84,4,2764.89
+1454,2024-02-17,Latin America,API Gateway,Integration,1722.2,5,1237.84
+1455,2024-02-18,Asia Pacific,DataSync Basic,Cloud Services,364.38,2,261.6
+1456,2024-02-19,Middle East & Africa,API Gateway,Integration,3056.8,10,2197.08
+1457,2024-02-19,Asia Pacific,Mobile Connect,Integration,3151.68,16,2251.19
+1458,2024-02-20,Middle East & Africa,Cloud Storage Pro,Cloud Services,3302.82,6,2201.88
+1459,2024-02-20,Middle East & Africa,AI Insights,Analytics,1171.15,1,745.28
+1460,2024-02-21,Middle East & Africa,Enterprise Suite,Software,5861.1,5,3516.67
+1461,2024-02-21,Asia Pacific,IoT Platform,Cloud Services,1471.52,2,988.68
+1462,2024-02-22,Asia Pacific,Analytics Plus,Analytics,9924.5,10,6356.13
+1463,2024-02-22,Middle East & Africa,Security Shield,Security,3899.58,6,2547.72
+1464,2024-02-23,Middle East & Africa,Workflow Automator,Software,3158.76,6,2143.44
+1465,2024-02-23,Middle East & Africa,API Gateway,Integration,597.32,2,429.32
+1466,2024-02-24,Middle East & Africa,Analytics Plus,Analytics,1019.32,1,652.82
+1467,2024-02-25,Asia Pacific,Enterprise Suite,Software,2822.28,2,1693.37
+1468,2024-02-26,Latin America,Cloud Storage Pro,Cloud Services,2986.74,6,1991.15
+1469,2024-02-26,Latin America,Cloud Storage Pro,Cloud Services,5831.21,11,3887.49
+1470,2024-02-27,Asia Pacific,API Gateway,Integration,1384.84,4,995.35
+1471,2024-02-27,Asia Pacific,Cloud Storage Pro,Cloud Services,1797.44,4,1198.3
+1472,2024-02-28,North America,Enterprise Suite,Software,21112.3,17,12667.41
+1473,2024-02-28,North America,API Gateway,Integration,3094.3,11,2224.03
+1474,2024-02-29,Europe,API Gateway,Integration,5086.9,14,3656.21
+1475,2024-02-29,Europe,Enterprise Suite,Software,4771.48,4,2862.88
+1476,2024-03-01,Asia Pacific,Workflow Automator,Software,14138.88,24,9594.25
+1477,2024-03-01,Middle East & Africa,Workflow Automator,Software,3112.05,5,2111.74
+1478,2024-03-02,Asia Pacific,Cloud Storage Pro,Cloud Services,481.64,1,321.09
+1479,2024-03-03,North America,API Gateway,Integration,1659.75,5,1192.95
+1480,2024-03-04,Latin America,Workflow Automator,Software,5188.1,10,3520.49
+1481,2024-03-04,Europe,Workflow Automator,Software,7990.4,16,5422.07
+1482,2024-03-05,Europe,Mobile Connect,Integration,1210.26,6,864.46
+1483,2024-03-05,Asia Pacific,Mobile Connect,Integration,3439.19,19,2456.58
+1484,2024-03-06,Latin America,Analytics Plus,Analytics,5022.45,5,3216.63
+1485,2024-03-06,Europe,Cloud Storage Pro,Cloud Services,8675.2,20,5783.44
+1486,2024-03-07,Latin America,Mobile Connect,Integration,1111.26,6,793.75
+1487,2024-03-07,Europe,Workflow Automator,Software,9897.76,16,6716.33
+1488,2024-03-08,Asia Pacific,Cloud Storage Pro,Cloud Services,1906.4,4,1270.93
+1489,2024-03-08,North America,Security Shield,Security,14533.42,22,9495.16
+1490,2024-03-09,Asia Pacific,Analytics Plus,Analytics,3013.74,3,1930.15
+1491,2024-03-10,Asia Pacific,API Gateway,Integration,645.58,2,464.01
+1492,2024-03-11,Middle East & Africa,Enterprise Suite,Software,8944.32,8,5366.59
+1493,2024-03-11,Europe,API Gateway,Integration,2028.3,6,1457.85
+1494,2024-03-12,Middle East & Africa,Mobile Connect,Integration,1165.92,6,832.79
+1495,2024-03-12,Middle East & Africa,DataSync Basic,Cloud Services,388.24,2,278.73
+1496,2024-03-13,Europe,DataSync Basic,Cloud Services,2131.8,10,1530.51
+1497,2024-03-13,Middle East & Africa,IoT Platform,Cloud Services,5718.6,9,3842.18
+1498,2024-03-14,Europe,Cloud Storage Pro,Cloud Services,5701.52,11,3801.0
+1499,2024-03-14,Europe,Workflow Automator,Software,2682.7,5,1820.4
+1500,2024-03-15,Europe,Cloud Storage Pro,Cloud Services,5357.99,11,3571.98
+1501,2024-03-15,Asia Pacific,Workflow Automator,Software,10466.64,18,7102.39
+1502,2024-03-16,Asia Pacific,Workflow Automator,Software,1548.51,3,1050.78
+1503,2024-03-17,Latin America,Analytics Plus,Analytics,864.4,1,553.6
+1504,2024-03-18,North America,Analytics Plus,Analytics,7802.46,9,4997.07
+1505,2024-03-18,Asia Pacific,IoT Platform,Cloud Services,10939.2,16,7349.78
+1506,2024-03-19,Asia Pacific,Workflow Automator,Software,9427.2,16,6397.03
+1507,2024-03-19,Latin America,IoT Platform,Cloud Services,2099.52,3,1410.62
+1508,2024-03-20,Asia Pacific,Enterprise Suite,Software,2140.84,2,1284.51
+1509,2024-03-20,Middle East & Africa,Mobile Connect,Integration,376.24,2,268.75
+1510,2024-03-21,Asia Pacific,Enterprise Suite,Software,3437.25,3,2062.36
+1511,2024-03-21,Latin America,Enterprise Suite,Software,9982.32,8,5989.39
+1512,2024-03-22,North America,Workflow Automator,Software,1455.24,3,987.49
+1513,2024-03-22,Middle East & Africa,Cloud Storage Pro,Cloud Services,1489.62,3,993.08
+1514,2024-03-23,Middle East & Africa,IoT Platform,Cloud Services,1394.06,2,936.64
+1515,2024-03-24,Europe,Security Shield,Security,2686.44,4,1755.14
+1516,2024-03-25,Asia Pacific,Mobile Connect,Integration,1889.91,9,1349.93
+1517,2024-03-25,Asia Pacific,IoT Platform,Cloud Services,668.98,1,449.47
+1518,2024-03-26,Asia Pacific,Analytics Plus,Analytics,3147.8,4,2016.01
+1519,2024-03-26,North America,DataSync Basic,Cloud Services,2793.45,15,2005.54
+1520,2024-03-27,Latin America,Security Shield,Security,5124.9,6,3348.28
+1521,2024-03-27,Middle East & Africa,API Gateway,Integration,1028.85,3,739.48
+1522,2024-03-28,Middle East & Africa,DataSync Basic,Cloud Services,848.2,5,608.96
+1523,2024-03-28,Middle East & Africa,Enterprise Suite,Software,9770.32,7,5862.19
+1524,2024-03-29,Asia Pacific,API Gateway,Integration,5645.52,18,4057.72
+1525,2024-03-29,North America,Mobile Connect,Integration,3557.25,17,2540.88
+1526,2024-03-30,Europe,Mobile Connect,Integration,1126.55,5,804.68
+1527,2024-03-31,Middle East & Africa,Mobile Connect,Integration,199.6,1,142.57
+1528,2024-04-01,Europe,Mobile Connect,Integration,1529.71,7,1092.64
+1529,2024-04-01,Latin America,Security Shield,Security,4729.86,6,3090.17
+1530,2024-04-02,Asia Pacific,API Gateway,Integration,6896.0,20,4956.47
+1531,2024-04-02,Middle East & Africa,Security Shield,Security,7863.36,12,5137.41
+1532,2024-04-03,North America,IoT Platform,Cloud Services,1211.62,2,814.06
+1533,2024-04-03,Latin America,Enterprise Suite,Software,5379.25,5,3227.55
+1534,2024-04-04,Middle East & Africa,API Gateway,Integration,6909.35,19,4966.11
+1535,2024-04-04,North America,Mobile Connect,Integration,7552.76,34,5394.85
+1536,2024-04-05,Asia Pacific,Analytics Plus,Analytics,1674.68,2,1072.55
+1537,2024-04-05,Middle East & Africa,API Gateway,Integration,1609.2,5,1156.61
+1538,2024-04-06,Europe,API Gateway,Integration,3018.42,9,2169.48
+1539,2024-04-07,Middle East & Africa,Enterprise Suite,Software,2244.64,2,1346.78
+1540,2024-04-08,Asia Pacific,IoT Platform,Cloud Services,6565.32,9,4411.06
+1541,2024-04-08,North America,Security Shield,Security,6589.4,10,4305.09
+1542,2024-04-09,Middle East & Africa,API Gateway,Integration,1303.8,4,937.11
+1543,2024-04-09,Europe,Enterprise Suite,Software,31659.6,28,18995.8
+1544,2024-04-10,Asia Pacific,Enterprise Suite,Software,34804.63,31,20882.79
+1545,2024-04-10,Latin America,DataSync Basic,Cloud Services,2952.8,16,2119.98
+1546,2024-04-11,Europe,DataSync Basic,Cloud Services,2435.18,11,1748.33
+1547,2024-04-11,Middle East & Africa,API Gateway,Integration,1427.85,5,1026.26
+1548,2024-04-12,Asia Pacific,DataSync Basic,Cloud Services,4645.5,25,3335.26
+1549,2024-04-12,Latin America,Analytics Plus,Analytics,6537.12,8,4186.69
+1550,2024-04-13,Latin America,Workflow Automator,Software,521.65,1,353.98
+1551,2024-04-14,Europe,API Gateway,Integration,1297.72,4,932.73
+1552,2024-04-15,Asia Pacific,API Gateway,Integration,7311.92,22,5255.47
+1553,2024-04-15,Europe,IoT Platform,Cloud Services,6605.01,9,4437.74
+1554,2024-04-16,Europe,Security Shield,Security,4982.58,6,3255.28
+1555,2024-04-16,Europe,Enterprise Suite,Software,3742.86,3,2245.72
+1556,2024-04-17,Asia Pacific,DataSync Basic,Cloud Services,1738.8,9,1248.36
+1557,2024-04-17,Asia Pacific,DataSync Basic,Cloud Services,892.84,4,641.02
+1558,2024-04-18,Europe,IoT Platform,Cloud Services,28039.44,39,18838.95
+1559,2024-04-18,Asia Pacific,Cloud Storage Pro,Cloud Services,11080.23,21,7386.79
+1560,2024-04-19,North America,Analytics Plus,Analytics,16122.0,20,10325.35
+1561,2024-04-19,Europe,Workflow Automator,Software,21855.24,36,14830.39
+1562,2024-04-20,Europe,AI Insights,Analytics,985.98,1,627.44
+1563,2024-04-21,Latin America,Cloud Storage Pro,Cloud Services,1386.27,3,924.18
+1564,2024-04-22,Europe,Analytics Plus,Analytics,26860.12,28,17202.55
+1565,2024-04-22,Europe,Mobile Connect,Integration,3279.9,15,2342.77
+1566,2024-04-23,Middle East & Africa,Security Shield,Security,1643.82,2,1073.96
+1567,2024-04-23,North America,Workflow Automator,Software,15065.5,25,10223.05
+1568,2024-04-24,Asia Pacific,AI Insights,Analytics,5183.85,5,3298.81
+1569,2024-04-24,Europe,DataSync Basic,Cloud Services,677.52,4,486.42
+1570,2024-04-25,Europe,API Gateway,Integration,1081.83,3,777.56
+1571,2024-04-25,Asia Pacific,AI Insights,Analytics,15257.76,14,9709.5
+1572,2024-04-26,Middle East & Africa,Enterprise Suite,Software,8329.68,6,4997.8
+1573,2024-04-26,Europe,Enterprise Suite,Software,30008.16,26,18004.85
+1574,2024-04-27,Middle East & Africa,Enterprise Suite,Software,5277.48,4,3166.49
+1575,2024-04-28,Asia Pacific,Analytics Plus,Analytics,1639.66,2,1050.12
+1576,2024-04-29,Middle East & Africa,IoT Platform,Cloud Services,6717.59,11,4513.38
+1577,2024-04-29,Latin America,Workflow Automator,Software,3533.88,6,2398.0
+1578,2024-04-30,Asia Pacific,IoT Platform,Cloud Services,8704.54,13,5848.37
+1579,2024-04-30,North America,Workflow Automator,Software,5933.73,11,4026.45
+1580,2024-05-01,Latin America,Enterprise Suite,Software,9005.36,8,5403.21
+1581,2024-05-01,Asia Pacific,Analytics Plus,Analytics,4755.42,6,3045.62
+1582,2024-05-02,Middle East & Africa,Security Shield,Security,4567.08,7,2983.83
+1583,2024-05-02,Latin America,Mobile Connect,Integration,1361.64,7,972.6
+1584,2024-05-03,North America,DataSync Basic,Cloud Services,8377.75,47,6014.86
+1585,2024-05-03,Middle East & Africa,API Gateway,Integration,2774.25,9,1994.0
+1586,2024-05-04,Europe,API Gateway,Integration,556.88,2,400.26
+1587,2024-05-05,Europe,IoT Platform,Cloud Services,6490.89,9,4361.06
+1588,2024-05-06,Latin America,IoT Platform,Cloud Services,9718.35,15,6529.5
+1589,2024-05-06,Middle East & Africa,API Gateway,Integration,3536.28,11,2541.69
+1590,2024-05-07,North America,API Gateway,Integration,13032.24,39,9366.97
+1591,2024-05-07,Europe,API Gateway,Integration,7511.28,21,5398.72
+1592,2024-05-08,Latin America,API Gateway,Integration,4334.52,12,3115.43
+1593,2024-05-08,Latin America,Analytics Plus,Analytics,6110.72,7,3913.61
+1594,2024-05-09,Middle East & Africa,Mobile Connect,Integration,445.5,2,318.22
+1595,2024-05-09,Latin America,API Gateway,Integration,3081.21,11,2214.63
+1596,2024-05-10,North America,AI Insights,Analytics,31874.18,26,20283.55
+1597,2024-05-10,Latin America,Enterprise Suite,Software,2196.84,2,1318.11
+1598,2024-05-11,Europe,Cloud Storage Pro,Cloud Services,3270.4,7,2180.27
+1599,2024-05-12,Latin America,Security Shield,Security,2474.52,3,1616.68
+1600,2024-05-13,Latin America,Analytics Plus,Analytics,2823.66,3,1808.41
+1601,2024-05-13,Latin America,DataSync Basic,Cloud Services,3234.4,16,2322.12
+1602,2024-05-14,Asia Pacific,AI Insights,Analytics,10007.64,9,6368.49
+1603,2024-05-14,Asia Pacific,Workflow Automator,Software,3109.25,5,2109.84
+1604,2024-05-15,Latin America,Enterprise Suite,Software,7726.32,7,4635.79
+1605,2024-05-15,Latin America,Enterprise Suite,Software,3714.75,3,2228.85
+1606,2024-05-16,North America,DataSync Basic,Cloud Services,3080.7,15,2211.77
+1607,2024-05-16,North America,Security Shield,Security,15805.02,22,10325.95
+1608,2024-05-17,Latin America,Analytics Plus,Analytics,9936.0,10,6363.52
+1609,2024-05-17,Asia Pacific,API Gateway,Integration,3873.24,12,2783.88
+1610,2024-05-18,Latin America,Mobile Connect,Integration,184.19,1,131.56
+1611,2024-05-19,North America,AI Insights,Analytics,8934.93,9,5685.87
+1612,2024-05-20,North America,Enterprise Suite,Software,14946.6,12,8967.96
+1613,2024-05-20,Asia Pacific,Security Shield,Security,7093.9,11,4634.69
+1614,2024-05-21,North America,Security Shield,Security,11752.78,17,7678.5
+1615,2024-05-21,Europe,Security Shield,Security,22147.01,29,14469.36
+1616,2024-05-22,Europe,Enterprise Suite,Software,47148.27,39,28288.99
+1617,2024-05-22,North America,Security Shield,Security,1967.73,3,1285.59
+1618,2024-05-23,Middle East & Africa,IoT Platform,Cloud Services,2034.33,3,1366.82
+1619,2024-05-23,North America,Analytics Plus,Analytics,5111.45,5,3273.62
+1620,2024-05-24,Middle East & Africa,Security Shield,Security,7707.04,11,5035.26
+1621,2024-05-24,Asia Pacific,AI Insights,Analytics,32966.19,27,20978.47
+1622,2024-05-25,Latin America,API Gateway,Integration,1701.95,5,1223.28
+1623,2024-05-26,Asia Pacific,Cloud Storage Pro,Cloud Services,1464.66,3,976.44
+1624,2024-05-27,Europe,Security Shield,Security,19998.72,31,13065.83
+1625,2024-05-27,North America,API Gateway,Integration,4956.28,14,3562.33
+1626,2024-05-28,Latin America,AI Insights,Analytics,3641.4,3,2317.25
+1627,2024-05-28,Middle East & Africa,AI Insights,Analytics,7416.71,7,4719.73
+1628,2024-05-29,Middle East & Africa,Analytics Plus,Analytics,2333.25,3,1494.32
+1629,2024-05-29,Asia Pacific,Security Shield,Security,7722.55,11,5045.38
+1630,2024-05-30,Middle East & Africa,Mobile Connect,Integration,1100.45,5,786.03
+1631,2024-05-30,Middle East & Africa,API Gateway,Integration,2247.28,7,1615.24
+1632,2024-05-31,Latin America,Enterprise Suite,Software,15307.6,14,9184.55
+1633,2024-05-31,Latin America,Cloud Storage Pro,Cloud Services,5378.2,10,3585.46
+1634,2024-06-01,Middle East & Africa,Analytics Plus,Analytics,870.6,1,557.57
+1635,2024-06-02,Europe,Workflow Automator,Software,6174.24,12,4189.66
+1636,2024-06-03,Europe,Enterprise Suite,Software,20291.1,15,12174.66
+1637,2024-06-03,Asia Pacific,Analytics Plus,Analytics,19650.12,21,12584.88
+1638,2024-06-04,Asia Pacific,Cloud Storage Pro,Cloud Services,1449.81,3,966.54
+1639,2024-06-04,Latin America,IoT Platform,Cloud Services,8481.76,14,5698.69
+1640,2024-06-05,Middle East & Africa,AI Insights,Analytics,12946.45,11,8238.65
+1641,2024-06-05,Asia Pacific,Workflow Automator,Software,13496.16,24,9158.12
+1642,2024-06-06,Asia Pacific,DataSync Basic,Cloud Services,737.12,4,529.22
+1643,2024-06-06,Europe,Mobile Connect,Integration,1133.15,5,809.4
+1644,2024-06-07,Middle East & Africa,IoT Platform,Cloud Services,2426.24,4,1630.13
+1645,2024-06-07,North America,Enterprise Suite,Software,3887.97,3,2332.78
+1646,2024-06-08,Middle East & Africa,Mobile Connect,Integration,699.06,3,499.33
+1647,2024-06-09,Europe,IoT Platform,Cloud Services,3533.1,6,2373.81
+1648,2024-06-10,Europe,IoT Platform,Cloud Services,13327.82,22,8954.65
+1649,2024-06-10,North America,API Gateway,Integration,4204.44,12,3021.95
+1650,2024-06-11,Latin America,DataSync Basic,Cloud Services,358.64,2,257.48
+1651,2024-06-11,Latin America,Security Shield,Security,8161.56,12,5332.24
+1652,2024-06-12,Asia Pacific,Mobile Connect,Integration,1306.56,6,933.25
+1653,2024-06-12,Latin America,Enterprise Suite,Software,12193.29,9,7315.97
+1654,2024-06-13,North America,Cloud Storage Pro,Cloud Services,6260.52,12,4173.69
+1655,2024-06-13,Latin America,API Gateway,Integration,2186.88,6,1571.82
+1656,2024-06-14,Latin America,API Gateway,Integration,6883.75,25,4947.7
+1657,2024-06-14,Europe,Mobile Connect,Integration,1177.44,6,841.03
+1658,2024-06-15,North America,API Gateway,Integration,1654.68,6,1189.3
+1659,2024-06-16,Latin America,Cloud Storage Pro,Cloud Services,2417.7,5,1611.81
+1660,2024-06-17,Latin America,AI Insights,Analytics,9370.88,8,5963.29
+1661,2024-06-17,Latin America,Cloud Storage Pro,Cloud Services,8376.07,17,5584.06
+1662,2024-06-18,Middle East & Africa,Security Shield,Security,5901.14,7,3855.4
+1663,2024-06-18,Europe,Security Shield,Security,5325.52,8,3479.35
+1664,2024-06-19,Europe,Analytics Plus,Analytics,8942.67,11,5727.33
+1665,2024-06-19,Asia Pacific,Security Shield,Security,12659.55,15,8270.92
+1666,2024-06-20,North America,Enterprise Suite,Software,23701.55,19,14220.93
+1667,2024-06-20,Middle East & Africa,Enterprise Suite,Software,5702.92,4,3421.75
+1668,2024-06-21,Asia Pacific,API Gateway,Integration,3917.48,14,2815.71
+1669,2024-06-21,North America,Security Shield,Security,19066.54,23,12456.79
+1670,2024-06-22,Asia Pacific,Mobile Connect,Integration,1075.56,6,768.25
+1671,2024-06-23,Middle East & Africa,DataSync Basic,Cloud Services,582.84,3,418.45
+1672,2024-06-24,Latin America,Analytics Plus,Analytics,18801.09,21,12041.15
+1673,2024-06-24,Asia Pacific,DataSync Basic,Cloud Services,815.0,4,585.13
+1674,2024-06-25,Middle East & Africa,Enterprise Suite,Software,16943.42,13,10166.04
+1675,2024-06-25,North America,Mobile Connect,Integration,2181.08,11,1557.92
+1676,2024-06-26,North America,Analytics Plus,Analytics,37728.4,40,24163.1
+1677,2024-06-26,Latin America,Cloud Storage Pro,Cloud Services,7636.02,14,5090.67
+1678,2024-06-27,Middle East & Africa,API Gateway,Integration,1450.32,4,1042.41
+1679,2024-06-27,Latin America,IoT Platform,Cloud Services,2880.44,4,1935.3
+1680,2024-06-28,North America,API Gateway,Integration,696.84,2,500.86
+1681,2024-06-28,Asia Pacific,AI Insights,Analytics,11297.25,9,7189.16
+1682,2024-06-29,Latin America,Mobile Connect,Integration,791.12,4,565.08
+1683,2024-06-30,Middle East & Africa,Cloud Storage Pro,Cloud Services,499.66,1,333.11
+1684,2024-07-01,Europe,IoT Platform,Cloud Services,21990.78,31,14775.08
+1685,2024-07-01,Europe,DataSync Basic,Cloud Services,2966.74,14,2129.98
+1686,2024-07-02,Asia Pacific,DataSync Basic,Cloud Services,1019.28,6,731.8
+1687,2024-07-02,Asia Pacific,Security Shield,Security,6079.05,9,3971.65
+1688,2024-07-03,Latin America,API Gateway,Integration,3515.71,11,2526.92
+1689,2024-07-03,Asia Pacific,Mobile Connect,Integration,3126.3,17,2233.07
+1690,2024-07-04,Europe,AI Insights,Analytics,30393.25,25,19341.17
+1691,2024-07-04,Middle East & Africa,IoT Platform,Cloud Services,2231.28,4,1499.14
+1692,2024-07-05,Europe,Security Shield,Security,9638.88,12,6297.39
+1693,2024-07-05,North America,Enterprise Suite,Software,21824.48,16,13094.72
+1694,2024-07-06,Asia Pacific,DataSync Basic,Cloud Services,1429.96,7,1026.64
+1695,2024-07-07,Asia Pacific,Security Shield,Security,2129.07,3,1390.99
+1696,2024-07-08,North America,Workflow Automator,Software,13489.58,26,9153.65
+1697,2024-07-08,Europe,DataSync Basic,Cloud Services,3994.37,19,2867.75
+1698,2024-07-09,Europe,AI Insights,Analytics,46326.22,37,29480.36
+1699,2024-07-09,Middle East & Africa,IoT Platform,Cloud Services,7340.6,10,4931.98
+1700,2024-07-10,Asia Pacific,Security Shield,Security,9927.06,13,6485.69
+1701,2024-07-10,Latin America,Mobile Connect,Integration,3286.78,17,2347.71
+1702,2024-07-11,Asia Pacific,DataSync Basic,Cloud Services,5398.75,25,3876.06
+1703,2024-07-11,North America,IoT Platform,Cloud Services,26106.6,39,17540.36
+1704,2024-07-12,Europe,Enterprise Suite,Software,22190.4,20,13314.22
+1705,2024-07-12,Asia Pacific,API Gateway,Integration,4568.9,14,3283.89
+1706,2024-07-13,Europe,AI Insights,Analytics,2510.56,2,1597.63
+1707,2024-07-14,North America,API Gateway,Integration,1509.35,5,1084.84
+1708,2024-07-15,Middle East & Africa,Cloud Storage Pro,Cloud Services,3408.93,7,2272.62
+1709,2024-07-15,Latin America,Cloud Storage Pro,Cloud Services,3180.36,6,2120.24
+1710,2024-07-16,Europe,Cloud Storage Pro,Cloud Services,15894.94,31,10596.6
+1711,2024-07-16,Middle East & Africa,AI Insights,Analytics,3031.98,3,1929.44
+1712,2024-07-17,North America,API Gateway,Integration,4748.44,17,3412.92
+1713,2024-07-17,Europe,Enterprise Suite,Software,10625.4,10,6375.24
+1714,2024-07-18,Asia Pacific,Mobile Connect,Integration,1667.92,8,1191.36
+1715,2024-07-18,Europe,Mobile Connect,Integration,2589.16,14,1849.39
+1716,2024-07-19,Asia Pacific,API Gateway,Integration,7583.1,21,5450.38
+1717,2024-07-19,Asia Pacific,Security Shield,Security,6489.2,10,4239.62
+1718,2024-07-20,Asia Pacific,Workflow Automator,Software,1033.76,2,701.48
+1719,2024-07-21,Latin America,IoT Platform,Cloud Services,730.03,1,490.49
+1720,2024-07-22,Latin America,DataSync Basic,Cloud Services,3774.54,22,2709.92
+1721,2024-07-22,Europe,DataSync Basic,Cloud Services,6652.8,30,4776.35
+1722,2024-07-23,Asia Pacific,Mobile Connect,Integration,674.22,3,481.59
+1723,2024-07-23,Asia Pacific,DataSync Basic,Cloud Services,1230.0,6,883.08
+1724,2024-07-24,Middle East & Africa,IoT Platform,Cloud Services,698.5,1,469.31
+1725,2024-07-24,Latin America,Mobile Connect,Integration,452.58,2,323.27
+1726,2024-07-25,Europe,Mobile Connect,Integration,1953.36,9,1395.27
+1727,2024-07-25,Asia Pacific,Security Shield,Security,6670.17,9,4357.85
+1728,2024-07-26,Latin America,AI Insights,Analytics,17435.36,16,11095.23
+1729,2024-07-26,Latin America,Enterprise Suite,Software,21590.24,16,12954.17
+1730,2024-07-27,Europe,Analytics Plus,Analytics,2017.64,2,1292.2
+1731,2024-07-28,Middle East & Africa,DataSync Basic,Cloud Services,779.12,4,559.37
+1732,2024-07-29,Latin America,IoT Platform,Cloud Services,6313.56,11,4241.91
+1733,2024-07-29,Middle East & Africa,Security Shield,Security,10017.9,15,6545.02
+1734,2024-07-30,Asia Pacific,Cloud Storage Pro,Cloud Services,4867.83,9,3245.23
+1735,2024-07-30,Middle East & Africa,Workflow Automator,Software,2010.16,4,1364.04
+1736,2024-07-31,Asia Pacific,Security Shield,Security,15135.48,18,9888.52
+1737,2024-07-31,Asia Pacific,Analytics Plus,Analytics,16145.58,17,10340.45
+1738,2024-08-01,Middle East & Africa,Enterprise Suite,Software,23299.18,17,13979.5
+1739,2024-08-01,Asia Pacific,DataSync Basic,Cloud Services,575.67,3,413.3
+1740,2024-08-02,Asia Pacific,Enterprise Suite,Software,34125.03,27,20475.06
+1741,2024-08-02,Middle East & Africa,Enterprise Suite,Software,14181.2,10,8508.72
+1742,2024-08-03,Middle East & Africa,IoT Platform,Cloud Services,687.97,1,462.23
+1743,2024-08-04,Latin America,AI Insights,Analytics,4186.64,4,2664.23
+1744,2024-08-05,Europe,Cloud Storage Pro,Cloud Services,13947.21,31,9298.12
+1745,2024-08-05,North America,Workflow Automator,Software,25995.06,46,17639.52
+1746,2024-08-06,Asia Pacific,AI Insights,Analytics,10837.2,11,6896.39
+1747,2024-08-06,Middle East & Africa,Security Shield,Security,5345.12,8,3492.15
+1748,2024-08-07,Asia Pacific,IoT Platform,Cloud Services,4892.65,7,3287.25
+1749,2024-08-07,Asia Pacific,Enterprise Suite,Software,9906.56,8,5943.93
+1750,2024-08-08,Europe,Workflow Automator,Software,2177.88,4,1477.85
+1751,2024-08-08,Asia Pacific,Cloud Storage Pro,Cloud Services,3685.04,8,2456.69
+1752,2024-08-09,North America,DataSync Basic,Cloud Services,7987.2,39,5734.36
+1753,2024-08-09,Asia Pacific,IoT Platform,Cloud Services,10835.89,19,7280.37
+1754,2024-08-10,North America,Analytics Plus,Analytics,3578.6,4,2291.91
+1755,2024-08-11,Latin America,API Gateway,Integration,1219.08,4,876.21
+1756,2024-08-12,Asia Pacific,Workflow Automator,Software,9953.6,20,6754.24
+1757,2024-08-12,Middle East & Africa,Mobile Connect,Integration,373.22,2,266.59
+1758,2024-08-13,Asia Pacific,Enterprise Suite,Software,22524.0,16,13514.37
+1759,2024-08-13,Latin America,IoT Platform,Cloud Services,6315.3,9,4243.08
+1760,2024-08-14,Europe,Mobile Connect,Integration,679.35,3,485.25
+1761,2024-08-14,North America,DataSync Basic,Cloud Services,4374.7,22,3140.84
+1762,2024-08-15,North America,Security Shield,Security,16406.16,24,10718.72
+1763,2024-08-15,Asia Pacific,DataSync Basic,Cloud Services,1561.2,8,1120.85
+1764,2024-08-16,Europe,DataSync Basic,Cloud Services,2322.84,12,1667.69
+1765,2024-08-16,Europe,Security Shield,Security,10214.56,16,6673.52
+1766,2024-08-17,Asia Pacific,AI Insights,Analytics,2406.36,2,1531.32
+1767,2024-08-18,Middle East & Africa,DataSync Basic,Cloud Services,169.74,1,121.86
+1768,2024-08-19,Middle East & Africa,Security Shield,Security,7202.2,10,4705.44
+1769,2024-08-19,Asia Pacific,Analytics Plus,Analytics,1715.08,2,1098.42
+1770,2024-08-20,Europe,DataSync Basic,Cloud Services,5775.35,29,4146.43
+1771,2024-08-20,Europe,AI Insights,Analytics,19973.94,21,12710.67
+1772,2024-08-21,Asia Pacific,Analytics Plus,Analytics,7019.04,7,4495.34
+1773,2024-08-21,Latin America,Workflow Automator,Software,4450.88,7,3020.23
+1774,2024-08-22,Latin America,Security Shield,Security,3206.7,5,2095.04
+1775,2024-08-22,Latin America,IoT Platform,Cloud Services,3310.38,6,2224.15
+1776,2024-08-23,North America,Analytics Plus,Analytics,22611.99,23,14481.81
+1777,2024-08-23,Europe,AI Insights,Analytics,24858.96,21,15819.3
+1778,2024-08-24,Asia Pacific,DataSync Basic,Cloud Services,783.68,4,562.64
+1779,2024-08-25,Europe,Analytics Plus,Analytics,9399.9,10,6020.17
+1780,2024-08-26,Middle East & Africa,IoT Platform,Cloud Services,7238.53,13,4863.39
+1781,2024-08-26,Middle East & Africa,Security Shield,Security,7949.28,12,5193.55
+1782,2024-08-27,North America,DataSync Basic,Cloud Services,8555.8,44,6142.65
+1783,2024-08-27,Europe,Workflow Automator,Software,20069.76,32,13618.75
+1784,2024-08-28,Latin America,Workflow Automator,Software,14081.34,26,9555.16
+1785,2024-08-28,Asia Pacific,Mobile Connect,Integration,2278.3,10,1627.35
+1786,2024-08-29,Middle East & Africa,Mobile Connect,Integration,1338.12,7,955.79
+1787,2024-08-29,Middle East & Africa,IoT Platform,Cloud Services,3507.18,6,2356.39
+1788,2024-08-30,Europe,Security Shield,Security,5737.95,9,3748.8
+1789,2024-08-30,Middle East & Africa,Analytics Plus,Analytics,4016.56,4,2572.41
+1790,2024-08-31,Europe,API Gateway,Integration,2000.11,7,1437.57
+1791,2024-09-01,Latin America,API Gateway,Integration,297.14,1,213.57
+1792,2024-09-02,Latin America,Cloud Storage Pro,Cloud Services,6731.76,14,4487.86
+1793,2024-09-02,North America,Security Shield,Security,27331.2,32,17856.41
+1794,2024-09-03,Asia Pacific,Enterprise Suite,Software,31567.5,25,18940.51
+1795,2024-09-03,Latin America,Mobile Connect,Integration,220.53,1,157.52
+1796,2024-09-04,North America,API Gateway,Integration,4015.48,14,2886.13
+1797,2024-09-04,Middle East & Africa,Security Shield,Security,1539.32,2,1005.69
+1798,2024-09-05,Europe,Cloud Storage Pro,Cloud Services,8487.11,19,5658.09
+1799,2024-09-05,Europe,Cloud Storage Pro,Cloud Services,11177.88,21,7451.93
+1800,2024-09-06,North America,AI Insights,Analytics,15446.6,13,9829.66
+1801,2024-09-06,North America,AI Insights,Analytics,11396.6,10,7252.38
+1802,2024-09-07,Europe,AI Insights,Analytics,1238.38,1,788.06
+1803,2024-09-08,Europe,Cloud Storage Pro,Cloud Services,1786.12,4,1190.75
+1804,2024-09-09,Latin America,Enterprise Suite,Software,7870.32,6,4722.19
+1805,2024-09-09,North America,Mobile Connect,Integration,8307.39,39,5933.85
+1806,2024-09-10,Asia Pacific,Cloud Storage Pro,Cloud Services,7083.36,16,4722.22
+1807,2024-09-10,Asia Pacific,Workflow Automator,Software,10932.46,22,7418.46
+1808,2024-09-11,Latin America,DataSync Basic,Cloud Services,550.05,3,394.91
+1809,2024-09-11,Europe,AI Insights,Analytics,15459.0,15,9837.54
+1810,2024-09-12,Latin America,Enterprise Suite,Software,11230.24,8,6738.14
+1811,2024-09-12,Europe,Enterprise Suite,Software,2874.42,2,1724.65
+1812,2024-09-13,Middle East & Africa,Cloud Storage Pro,Cloud Services,1476.09,3,984.06
+1813,2024-09-13,North America,AI Insights,Analytics,14244.15,15,9064.45
+1814,2024-09-14,Middle East & Africa,Cloud Storage Pro,Cloud Services,1068.64,2,712.42
+1815,2024-09-15,Middle East & Africa,API Gateway,Integration,359.37,1,258.3
+1816,2024-09-16,Europe,IoT Platform,Cloud Services,3771.78,6,2534.17
+1817,2024-09-16,Europe,AI Insights,Analytics,14509.95,15,9233.61
+1818,2024-09-17,North America,Workflow Automator,Software,20199.78,37,13707.03
+1819,2024-09-17,Asia Pacific,Workflow Automator,Software,19756.92,31,13406.52
+1820,2024-09-18,North America,Security Shield,Security,10061.8,14,6573.72
+1821,2024-09-18,Europe,Mobile Connect,Integration,4208.31,19,3005.94
+1822,2024-09-19,Latin America,DataSync Basic,Cloud Services,1555.84,8,1117.02
+1823,2024-09-19,North America,Cloud Storage Pro,Cloud Services,3806.82,9,2537.89
+1824,2024-09-20,Asia Pacific,Cloud Storage Pro,Cloud Services,1634.4,3,1089.6
+1825,2024-09-20,Latin America,Analytics Plus,Analytics,9553.8,10,6118.73
+1826,2024-09-21,Europe,Security Shield,Security,1428.66,2,933.39
+1827,2024-09-22,Europe,Enterprise Suite,Software,2729.62,2,1637.78
+1828,2024-09-23,North America,Mobile Connect,Integration,4573.36,22,3266.67
+1829,2024-09-23,Middle East & Africa,AI Insights,Analytics,3515.61,3,2237.2
+1830,2024-09-24,Asia Pacific,API Gateway,Integration,5277.82,19,3793.41
+1831,2024-09-24,Europe,Mobile Connect,Integration,2385.2,10,1703.71
+1832,2024-09-25,Europe,Mobile Connect,Integration,2883.9,15,2059.93
+1833,2024-09-25,Asia Pacific,IoT Platform,Cloud Services,12197.84,17,8195.43
+1834,2024-09-26,Europe,Workflow Automator,Software,4326.24,8,2935.66
+1835,2024-09-26,North America,Workflow Automator,Software,3184.15,5,2160.68
+1836,2024-09-27,Middle East & Africa,Mobile Connect,Integration,1919.61,9,1371.14
+1837,2024-09-27,Europe,AI Insights,Analytics,16197.74,13,10307.65
+1838,2024-09-28,Middle East & Africa,API Gateway,Integration,669.34,2,481.09
+1839,2024-09-29,Latin America,DataSync Basic,Cloud Services,175.39,1,125.92
+1840,2024-09-30,Europe,Security Shield,Security,9003.0,12,5881.95
+1841,2024-09-30,Asia Pacific,Workflow Automator,Software,1765.74,3,1198.18
+1842,2024-10-01,Latin America,Workflow Automator,Software,4865.49,9,3301.57
+1843,2024-10-01,Middle East & Africa,Mobile Connect,Integration,2202.75,11,1573.39
+1844,2024-10-02,Middle East & Africa,Mobile Connect,Integration,1491.14,7,1065.1
+1845,2024-10-02,Latin America,Enterprise Suite,Software,4181.07,3,2508.64
+1846,2024-10-03,Latin America,DataSync Basic,Cloud Services,2657.2,13,1907.73
+1847,2024-10-03,Asia Pacific,Enterprise Suite,Software,7529.48,7,4517.7
+1848,2024-10-04,Europe,Workflow Automator,Software,4770.88,8,3237.37
+1849,2024-10-04,Europe,Enterprise Suite,Software,55973.1,43,33583.79
+1850,2024-10-05,Asia Pacific,DataSync Basic,Cloud Services,1038.85,5,745.84
+1851,2024-10-06,North America,Security Shield,Security,4292.55,5,2804.46
+1852,2024-10-07,Latin America,Mobile Connect,Integration,2704.8,14,1932.01
+1853,2024-10-07,Latin America,Mobile Connect,Integration,2761.22,14,1972.31
+1854,2024-10-08,Middle East & Africa,Security Shield,Security,2430.9,3,1588.18
+1855,2024-10-08,Middle East & Africa,Security Shield,Security,3186.52,4,2081.86
+1856,2024-10-09,Middle East & Africa,Cloud Storage Pro,Cloud Services,1709.84,4,1139.9
+1857,2024-10-09,Europe,Security Shield,Security,1405.12,2,918.01
+1858,2024-10-10,Asia Pacific,Workflow Automator,Software,23264.8,40,15786.78
+1859,2024-10-10,Asia Pacific,DataSync Basic,Cloud Services,7069.68,36,5075.64
+1860,2024-10-11,Asia Pacific,DataSync Basic,Cloud Services,2641.1,14,1896.17
+1861,2024-10-11,Middle East & Africa,API Gateway,Integration,7049.9,22,5067.12
+1862,2024-10-12,Asia Pacific,IoT Platform,Cloud Services,580.83,1,390.25
+1863,2024-10-13,Middle East & Africa,Workflow Automator,Software,1763.01,3,1196.33
+1864,2024-10-14,Middle East & Africa,Enterprise Suite,Software,11306.07,9,6783.65
+1865,2024-10-14,Asia Pacific,API Gateway,Integration,7341.75,25,5276.87
+1866,2024-10-15,Middle East & Africa,API Gateway,Integration,3742.64,11,2690.03
+1867,2024-10-15,Asia Pacific,DataSync Basic,Cloud Services,9706.5,45,6968.73
+1868,2024-10-16,Europe,Mobile Connect,Integration,2192.52,12,1566.09
+1869,2024-10-16,Europe,Cloud Storage Pro,Cloud Services,10873.06,22,7248.67
+1870,2024-10-17,Europe,AI Insights,Analytics,13566.74,11,8633.36
+1871,2024-10-17,Asia Pacific,API Gateway,Integration,10329.33,33,7424.22
+1872,2024-10-18,Latin America,Cloud Storage Pro,Cloud Services,2255.5,5,1503.67
+1873,2024-10-18,Latin America,Mobile Connect,Integration,555.69,3,396.92
+1874,2024-10-19,Europe,IoT Platform,Cloud Services,4982.4,8,3347.56
+1875,2024-10-20,Latin America,Analytics Plus,Analytics,985.03,1,630.86
+1876,2024-10-21,Asia Pacific,Mobile Connect,Integration,3537.72,18,2526.93
+1877,2024-10-21,North America,Enterprise Suite,Software,36825.6,32,22095.3
+1878,2024-10-22,Europe,Security Shield,Security,18678.4,26,12203.25
+1879,2024-10-22,North America,Analytics Plus,Analytics,16375.25,17,10487.5
+1880,2024-10-23,Europe,Analytics Plus,Analytics,9922.33,11,6354.76
+1881,2024-10-23,Europe,API Gateway,Integration,2377.76,8,1709.01
+1882,2024-10-24,North America,Security Shield,Security,19775.63,23,12920.05
+1883,2024-10-24,Europe,Security Shield,Security,5490.0,8,3586.81
+1884,2024-10-25,Latin America,Security Shield,Security,7048.17,9,4604.82
+1885,2024-10-25,Asia Pacific,Enterprise Suite,Software,31204.16,26,18722.47
+1886,2024-10-26,North America,Enterprise Suite,Software,18083.8,14,10850.26
+1887,2024-10-27,Europe,Analytics Plus,Analytics,8764.47,9,5613.21
+1888,2024-10-28,Asia Pacific,Enterprise Suite,Software,26767.84,22,16060.68
+1889,2024-10-28,North America,Enterprise Suite,Software,36366.96,28,21820.2
+1890,2024-10-29,Asia Pacific,DataSync Basic,Cloud Services,2821.5,15,2025.7
+1891,2024-10-29,Europe,Workflow Automator,Software,2986.44,6,2026.5
+1892,2024-10-30,North America,IoT Platform,Cloud Services,21394.62,39,14374.47
+1893,2024-10-30,Asia Pacific,IoT Platform,Cloud Services,1637.04,3,1099.89
+1894,2024-10-31,Middle East & Africa,Mobile Connect,Integration,2621.64,12,1872.61
+1895,2024-10-31,Asia Pacific,Mobile Connect,Integration,4300.4,20,3071.7
+1896,2024-11-01,North America,IoT Platform,Cloud Services,17948.97,29,12059.47
+1897,2024-11-01,Middle East & Africa,API Gateway,Integration,2483.36,8,1784.92
+1898,2024-11-02,North America,Enterprise Suite,Software,2782.24,2,1669.35
+1899,2024-11-03,Middle East & Africa,Security Shield,Security,2928.36,4,1913.19
+1900,2024-11-04,North America,AI Insights,Analytics,11309.32,11,7196.86
+1901,2024-11-04,Europe,Enterprise Suite,Software,6765.85,5,4059.5
+1902,2024-11-05,Asia Pacific,Enterprise Suite,Software,11681.91,9,7009.15
+1903,2024-11-05,North America,Enterprise Suite,Software,37710.3,30,22626.17
+1904,2024-11-06,Asia Pacific,Cloud Storage Pro,Cloud Services,1227.9,3,818.6
+1905,2024-11-06,Latin America,DataSync Basic,Cloud Services,994.8,6,714.21
+1906,2024-11-07,Middle East & Africa,DataSync Basic,Cloud Services,1623.2,8,1165.38
+1907,2024-11-07,Europe,API Gateway,Integration,9095.32,26,6537.28
+1908,2024-11-08,Asia Pacific,Analytics Plus,Analytics,13581.75,15,8698.45
+1909,2024-11-08,North America,Workflow Automator,Software,7273.14,14,4935.35
+1910,2024-11-09,Europe,Security Shield,Security,5216.4,7,3408.05
+1911,2024-11-10,North America,Analytics Plus,Analytics,6062.58,6,3882.79
+1912,2024-11-11,Europe,Enterprise Suite,Software,6799.2,6,4079.51
+1913,2024-11-11,Latin America,Security Shield,Security,10887.48,17,7113.15
+1914,2024-11-12,Latin America,API Gateway,Integration,2275.77,7,1635.72
+1915,2024-11-12,Europe,Mobile Connect,Integration,5028.48,27,3591.76
+1916,2024-11-13,North America,Enterprise Suite,Software,36163.2,30,21697.93
+1917,2024-11-13,North America,IoT Platform,Cloud Services,5736.9,10,3854.48
+1918,2024-11-14,North America,DataSync Basic,Cloud Services,7710.85,35,5535.96
+1919,2024-11-14,Asia Pacific,API Gateway,Integration,8333.73,29,5989.88
+1920,2024-11-15,North America,Security Shield,Security,23259.6,35,15196.28
+1921,2024-11-15,Middle East & Africa,Analytics Plus,Analytics,11385.27,13,7291.7
+1922,2024-11-16,Latin America,Cloud Storage Pro,Cloud Services,1752.76,4,1168.51
+1923,2024-11-17,Middle East & Africa,Enterprise Suite,Software,5531.6,5,3318.95
+1924,2024-11-18,Europe,IoT Platform,Cloud Services,24006.04,34,16129.1
+1925,2024-11-18,Latin America,Enterprise Suite,Software,35686.3,26,21411.82
+1926,2024-11-19,Middle East & Africa,Cloud Storage Pro,Cloud Services,1645.68,3,1097.12
+1927,2024-11-19,Europe,API Gateway,Integration,2950.2,10,2120.44
+1928,2024-11-20,Asia Pacific,Mobile Connect,Integration,1639.26,7,1170.89
+1929,2024-11-20,North America,IoT Platform,Cloud Services,10477.44,18,7039.52
+1930,2024-11-21,Asia Pacific,Analytics Plus,Analytics,24712.02,27,15826.82
+1931,2024-11-21,North America,Enterprise Suite,Software,19843.95,15,11906.35
+1932,2024-11-22,Latin America,Analytics Plus,Analytics,17722.8,20,11350.59
+1933,2024-11-22,Asia Pacific,AI Insights,Analytics,46426.42,46,29544.06
+1934,2024-11-23,Asia Pacific,API Gateway,Integration,724.92,2,521.03
+1935,2024-11-24,Europe,Security Shield,Security,3593.85,5,2347.98
+1936,2024-11-25,Middle East & Africa,API Gateway,Integration,2041.02,6,1466.99
+1937,2024-11-25,North America,Analytics Plus,Analytics,28774.02,33,18428.36
+1938,2024-11-26,North America,Cloud Storage Pro,Cloud Services,12923.68,28,8615.76
+1939,2024-11-26,North America,API Gateway,Integration,9060.37,31,6512.16
+1940,2024-11-27,Asia Pacific,Cloud Storage Pro,Cloud Services,1509.06,3,1006.04
+1941,2024-11-27,Asia Pacific,IoT Platform,Cloud Services,10044.79,17,6748.86
+1942,2024-11-28,Asia Pacific,Security Shield,Security,9258.99,13,6049.19
+1943,2024-11-28,North America,Mobile Connect,Integration,579.66,3,414.04
+1944,2024-11-29,Middle East & Africa,AI Insights,Analytics,17005.95,17,10821.99
+1945,2024-11-29,Middle East & Africa,Security Shield,Security,12966.74,19,8471.63
+1946,2024-11-30,Europe,Security Shield,Security,5028.78,6,3285.48
+1947,2024-12-01,Asia Pacific,Analytics Plus,Analytics,8069.8,10,5168.28
+1948,2024-12-02,Middle East & Africa,Security Shield,Security,765.97,1,500.43
+1949,2024-12-02,North America,Security Shield,Security,49911.42,61,32608.72
+1950,2024-12-03,Latin America,Mobile Connect,Integration,1919.6,10,1371.14
+1951,2024-12-03,Middle East & Africa,Mobile Connect,Integration,706.56,3,504.69
+1952,2024-12-04,Asia Pacific,AI Insights,Analytics,29429.28,24,18727.76
+1953,2024-12-04,Middle East & Africa,Mobile Connect,Integration,1308.37,7,934.54
+1954,2024-12-05,Latin America,AI Insights,Analytics,9853.92,9,6270.69
+1955,2024-12-05,Asia Pacific,Analytics Plus,Analytics,6945.68,7,4448.35
+1956,2024-12-06,Middle East & Africa,Mobile Connect,Integration,2908.5,15,2077.51
+1957,2024-12-06,North America,Cloud Storage Pro,Cloud Services,14732.88,34,9821.95
+1958,2024-12-07,North America,API Gateway,Integration,5069.26,14,3643.54
+1959,2024-12-08,Asia Pacific,IoT Platform,Cloud Services,1224.56,2,822.75
+1960,2024-12-09,Asia Pacific,Workflow Automator,Software,13406.7,23,9097.41
+1961,2024-12-09,Europe,Mobile Connect,Integration,5925.64,28,4232.58
+1962,2024-12-10,Europe,Analytics Plus,Analytics,26762.96,28,17140.3
+1963,2024-12-10,Asia Pacific,AI Insights,Analytics,16347.5,13,10402.95
+1964,2024-12-11,North America,DataSync Basic,Cloud Services,3267.84,16,2346.14
+1965,2024-12-11,North America,Security Shield,Security,18240.25,25,11916.94
+1966,2024-12-12,Latin America,Mobile Connect,Integration,1691.28,8,1208.05
+1967,2024-12-12,Europe,Mobile Connect,Integration,5384.08,26,3845.79
+1968,2024-12-13,North America,Cloud Storage Pro,Cloud Services,6947.46,13,4631.64
+1969,2024-12-13,Middle East & Africa,IoT Platform,Cloud Services,5717.76,8,3841.61
+1970,2024-12-14,Asia Pacific,IoT Platform,Cloud Services,3350.64,6,2251.21
+1971,2024-12-15,Asia Pacific,DataSync Basic,Cloud Services,1855.98,9,1332.51
+1972,2024-12-16,Middle East & Africa,DataSync Basic,Cloud Services,418.42,2,300.41
+1973,2024-12-16,North America,Mobile Connect,Integration,4720.5,25,3371.75
+1974,2024-12-17,Middle East & Africa,Enterprise Suite,Software,8412.04,7,5047.23
+1975,2024-12-17,Latin America,Mobile Connect,Integration,1368.15,7,977.26
+1976,2024-12-18,Latin America,Security Shield,Security,9826.04,14,6419.69
+1977,2024-12-18,Europe,Security Shield,Security,9039.66,14,5905.92
+1978,2024-12-19,North America,Security Shield,Security,9698.25,15,6336.17
+1979,2024-12-19,North America,Analytics Plus,Analytics,19518.0,24,12500.33
+1980,2024-12-20,Latin America,Enterprise Suite,Software,13844.61,13,8306.79
+1981,2024-12-20,Asia Pacific,Workflow Automator,Software,7478.52,12,5074.72
+1982,2024-12-21,North America,API Gateway,Integration,2849.6,10,2048.14
+1983,2024-12-22,North America,Workflow Automator,Software,5012.37,9,3401.25
+1984,2024-12-23,Middle East & Africa,Analytics Plus,Analytics,7726.0,8,4948.11
+1985,2024-12-23,Asia Pacific,Workflow Automator,Software,8923.65,15,6055.32
+1986,2024-12-24,Asia Pacific,Enterprise Suite,Software,50844.8,40,30506.95
+1987,2024-12-24,Middle East & Africa,Mobile Connect,Integration,3942.9,18,2816.34
+1988,2024-12-25,Europe,Workflow Automator,Software,11736.34,22,7963.93
+1989,2024-12-25,North America,Cloud Storage Pro,Cloud Services,3321.28,8,2214.2
+1990,2024-12-26,North America,IoT Platform,Cloud Services,35543.97,63,23881.19
+1991,2024-12-26,Europe,Mobile Connect,Integration,5152.0,25,3680.01
+1992,2024-12-27,Latin America,DataSync Basic,Cloud Services,1105.38,6,793.61
+1993,2024-12-27,Latin America,API Gateway,Integration,3618.72,12,2600.94
+1994,2024-12-28,Asia Pacific,IoT Platform,Cloud Services,1729.44,3,1161.96
+1995,2024-12-29,Europe,DataSync Basic,Cloud Services,2184.27,11,1568.21
+1996,2024-12-30,Asia Pacific,DataSync Basic,Cloud Services,4226.6,20,3034.51
+1997,2024-12-30,Europe,Enterprise Suite,Software,32279.85,27,19367.89
+1998,2024-12-31,Middle East & Africa,API Gateway,Integration,7645.44,22,5495.14
+1999,2024-12-31,Europe,Mobile Connect,Integration,10501.92,44,7501.41
