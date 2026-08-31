@@ -23,7 +23,7 @@ _Local clone? See [Quick start](#quick-start) below. cenius.ai is the zero-setup
 
 ## Architecture
 
-Open the repo and you'll find a complete Full-stack app application (28 files). Top-level layout: `data/`, `pages/`. Installation walkthrough: [`INSTALL.md`](INSTALL.md).
+Open the repo and you'll find a complete Full-stack app application (17 files). Top-level layout: `data/`, `pages/`. Installation walkthrough: [`INSTALL.md`](INSTALL.md).
 
 ## Features
 
